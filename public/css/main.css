@@ -1,0 +1,48 @@
+.link-input {
+	width: 800px;
+}
+
+.link-input input:focus {
+
+}
+
+
+.error-link {
+	border: 2px solid red;
+}
+.input-error {
+	color: red;
+}
+
+.options {
+	font-size: 24px;
+	color: grey;
+	cursor: pointer;
+}
+#custom-link-maker {
+	border: 1px dashed black;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#custom-link-entry[type="text"] {
+	width: 100px;
+	font-size: 20px;
+	font-family: Lato;
+	font-weight: bold;
+	padding: 0px;
+	border-top: none; border-right: none; border-left: none;
+	border-radius: 0px;
+	border-bottom: 2px solid black;
+}
+.error-custom-link[type="text"]{
+	border-top: none; border-right: none; border-left: none;
+	border-radius: 0px;
+	border-bottom: 2px solid red !important;
+}
+
+
+#coded-link {
+	font-size: 24px;
+	
+}

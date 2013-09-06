@@ -1,0 +1,15 @@
+#description {
+	font-size: 15px;
+	font-weight: bold;
+
+}
+.url-entry {
+	padding-left: 20px;
+	font-family: 'Lato';
+	border-left: 7px solid white;
+	
+}
+
+.url-entry:hover {
+	border-left: 7px solid #FF6969;
+}

@@ -1,0 +1,21 @@
+.cool-font {
+	font-family: 'Lato';
+}
+#heading {
+	
+	font-size: 60px;
+	line-height: 40px;
+	
+}
+#sub-heading {
+	font-size: 24px;
+}
+.highlight {
+	border-left: 7px solid #DBDBDB;
+	
+	
+}
+
+.highlight-important {
+	border-left: 7px solid #FF6969;
+}
