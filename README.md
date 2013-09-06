@@ -1,8 +1,13 @@
 Linker
 ======
 
-A more versatile link shortener.
+A more versatile link shortener. This web app is currently in its beta-beta-beta...beta stage and is meant 
+to be a proof of concept rather than a production ready app. 
 
-Currently, this project is intended as a proof of concept rather than as a production ready app. This
-may change as I develop this project more. 
+It is currently hosted at the following link: http://linker-env-3mf2sndb4b.elasticbeanstalk.com/
 
+Of course, if this app were to reach production, there would be a better, shorter domain name tied to the app. 
+
+####Features
+ - Can shorten one or more links under the same shortened URL
+ - The user can customize the shortened URL 
